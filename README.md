@@ -24,7 +24,7 @@
 <img style="margin" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40">
 <img style="margin" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/21_Angular_logo_logos-512.png" alt="angular" width="40" heigt="40">
 <img style="margin" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="typescript" width="40" height="40">
-<img style="margin" src="https://iconape.com/wp-content/png_logo_vector/node-js-2.png" alt="nodejs" width="40" height="40">
+<img style="margin" src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" alt="nodejs" width="40" height="40">
 <img style="margin" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="python" width="40" height="40">
 <img style="margin" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="c#" width="40" height="40">
 </p>
