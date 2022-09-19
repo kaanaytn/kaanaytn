@@ -47,3 +47,5 @@
 <h3>My GitHub Stats</h3>
 
 <a href="http://www.github.com/kaanaytn"><img src="https://github-readme-stats.vercel.app/api?username=kaanaytn&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="kaan's GitHub stats" /></a>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaanaytn&theme=midnight-purple&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+![Profile views](https://komarev.com/ghpvc/?username=kaanaytn)
