@@ -51,6 +51,6 @@
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaanaytn&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="kaanaytn"/>
 </a>
 </p>
-<br/>
+<br>
 
 ![Profile views](https://komarev.com/ghpvc/?username=kaanaytn)
