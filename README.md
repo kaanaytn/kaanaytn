@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋 I'm Kaan</h1>
 
 <h3>About Me</h3>
 
@@ -52,4 +53,4 @@
 </a>
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=kaanaytn)
+<!-- ![Profile views](https://komarev.com/ghpvc/?username=kaanaytn) -->
