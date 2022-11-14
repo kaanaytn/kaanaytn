@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F814FF&lines=Hi++%F0%9F%91%8B+;I'm+Kaan.;I'm+a+Full+Stack+Web,;A+n+d;Mobile+Developer.;Glad+to+see+you.)](https://git.io/typing-svg)
 
 <h3>About Me</h3>
 
@@ -46,6 +45,11 @@
 
 <h3>My GitHub Stats</h3>
 
-<a href="http://www.github.com/kaanaytn"><img src="https://github-readme-stats.vercel.app/api?username=kaanaytn&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="kaan's GitHub stats" /></a>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kaanaytn&theme=midnight-purple&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<p align="center">
+	<a href="https://github.com/kaanaytn">
+		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=kaanaytn&show_icons=true&locale=en&theme=dark&include_all_commits=true&count_private=true" alt="kaanaytn"/>
+		  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaanaytn&show_icons=true&locale=en&layout=compact&langs_count=8&theme=dark" alt="kaanaytn"/>
+	</a>
+</p>
 
 ![Profile views](https://komarev.com/ghpvc/?username=kaanaytn)
