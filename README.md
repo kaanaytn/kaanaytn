@@ -2,7 +2,7 @@
 
 <h3>About Me</h3>
 
-- 🌍 I'm based in Zonguldak
+- 🌍 I'm based in Antalya
 - 🌱 I’m currently learning [NodeJS](https://nodejs.org/en/) and [Python](https://www.python.org/)
 - 👀 I'm interested in full stack web and mobile programming
 - 📫 Contact me from the [mail](mailto:kaanayten@hotmail.com)
